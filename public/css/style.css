@@ -1,0 +1,33 @@
+.custom{
+    margin-top: 25px;
+    width: 450px;
+    height: 290px;
+    border-radius: 5px;
+    text-align: center;
+}
+ul{
+    list-style: none;
+    text-decoration: none;
+    padding-left: 0px;
+}
+.menu-li{
+    background: white;
+    padding: 12px;
+    margin: 8px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+a{
+    color: black;
+    font-size: 21px;
+    text-decoration: none;
+}
+.menu-li:hover{
+    background: #e7e5e5;
+}
+.font{
+    font-size: 27px;
+}
+.style-custom{
+    color: gray;
+}
